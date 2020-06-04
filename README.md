@@ -13,7 +13,7 @@ All the codes for the projects can be found under relevant project name.
 - Deploy a Sentiment Analysis Model: Using SageMaker, deployed PyTorch sentiment
 analysis model, which is trained to recognize the sentiment of movie reviews.
 
-- Plagiarism Detector: Engineereed features that can help identify cases of plagiarism in text and deployed
+- Plagiarism Detector: Engineered features that can help identify cases of plagiarism in text and deployed
 a trained plagiarism detection model using Amazon SageMaker.
 
 - Time Series Forecasting
