@@ -8,7 +8,7 @@ The course started with Software Engineering Fundamentals, Object-Oriented Progr
 All the codes for the projects can be found under relevant project name.
 
 
-# Projects include:
+# Projects:
 
 - Deployment of Sentiment Analysis Model
 - Plagiarism Detector
@@ -17,4 +17,4 @@ All the codes for the projects can be found under relevant project name.
 - Population Segmentation
 - Boston Housing
 
-# Tools Utilized: Python, TensorFlow, Keras, PyTorch, Scikit-Learn, Amazon SageMaker, AWS EC2, AWS Lambda
+**Tools Utilized: Python, TensorFlow, Keras, PyTorch, Scikit-Learn, Amazon SageMaker, AWS EC2, AWS Lambda**
