@@ -8,7 +8,7 @@ The course started with Software Engineering Fundamentals, Object-Oriented Progr
 All the codes for the projects can be found under relevant project name.
 
 
-Project Overview: 
+# Project Overview: 
 
 - Build a Python Package: Write a Python package on your own using software engineering best
 practices for writing production level code.
