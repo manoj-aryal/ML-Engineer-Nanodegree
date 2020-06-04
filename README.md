@@ -8,20 +8,13 @@ The course started with Software Engineering Fundamentals, Object-Oriented Progr
 All the codes for the projects can be found under relevant project name.
 
 
-# Project Overview: 
+# Projects include:
 
-- Deploy a Sentiment Analysis Model: Using SageMaker, deployed PyTorch sentiment
-analysis model, which is trained to recognize the sentiment of movie reviews.
-
-- Plagiarism Detector: Engineered features that can help identify cases of plagiarism in text and deployed
-a trained plagiarism detection model using Amazon SageMaker.
-
+- Deployment of Sentiment Analysis Model
+- Plagiarism Detector
 - Time Series Forecasting
-
 - Payment Fraud Detector
-
 - Population Segmentation
-
 - Boston Housing
 
-
+# Tools Utilized: Python, TensorFlow, Keras, PyTorch, Scikit-Learn, Amazon SageMaker, AWS EC2, AWS Lambda
